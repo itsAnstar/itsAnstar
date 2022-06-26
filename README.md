@@ -9,6 +9,8 @@
 <p align="left">
 <a href="https://twitter.com/lucky_nigelann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucky_nigelann" height="30" width="40" /></a>
 <a href="https://instagram.com/lucky_nigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucky_nigel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/壹只猪猪" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="壹只猪猪" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lucky_nigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lucky_nigel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
