@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https: //komarev.com/ghpvc/?username=luckynigel&label=Profile%20views&color=0e75b6&style=flat" alt="luckynigel" /> </p>
 
-- 📫 如何联系我**Lucky_Nigel@yeah.net**
+- 📫 如何联系我**LuckyNigelAnn@gmail.com**
 
 <h3 align ="left">与我联系：</h3>
 <p align="left">
