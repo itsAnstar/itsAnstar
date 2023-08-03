@@ -1,4 +1,4 @@
-<h1 align="center">嗨👋  我是小安</h1>
+<h1 align="center">嗨 👋  我是小安</h1>
 
 
 
