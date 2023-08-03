@@ -12,11 +12,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.1](https://github.com/luckynigel/github-activity-readme/releases/tag/v0.4.1) in [luckynigel/github-activity-readme](https://github.com/luckynigel/github-activity-readme)
-2. 🎉 Merged PR [#104](https://github.com/luckynigel/github-activity-readme/pull/104) in [luckynigel/github-activity-readme](https://github.com/luckynigel/github-activity-readme)
-3. 🔒 Closed issue [#99](https://github.com/luckynigel/github-activity-readme/issues/99) in [luckynigel/github-activity-readme](https://github.com/luckynigel/github-activity-readme)
-4. 🗣 Commented on [#102](https://github.com/luckynigel/github-activity-readme/pull/102#issuecomment-1627773520) in [luckynigel/github-activity-readme](https://github.com/luckynigel/github-activity-readme)
-5. 🔒 Closed issue [#96](https://github.com/luckynigel/github-activity-readme/issues/96) in [luckynigel/github-activity-readme](https://github.com/luckynigel/github-activity-readme)
+1. 🚀 Published release [Renew From V1](https://github.com/LuckyNigel/230702/releases/tag/beta.a.0.2.1) in [LuckyNigel/230702](https://github.com/LuckyNigel/230702)
+2. 🚀 Published release [Renew Alpha](https://github.com/LuckyNigel/230702/releases/tag/alpha) in [LuckyNigel/230702](https://github.com/LuckyNigel/230702)
+3. 🚀 Published release [V2](https://github.com/LuckyNigel/230702/releases/tag/beta.a.0.2.1) in [LuckyNigel/230702](https://github.com/LuckyNigel/230702)
+4. 🚀 Published release [0.1.9](https://github.com/LuckyNigel/230702/releases/tag/0.1.9) in [LuckyNigel/230702](https://github.com/LuckyNigel/230702)
+5. 🎉 Merged PR [#1](https://github.com/LuckyNigel/230702/pull/1) in [LuckyNigel/230702](https://github.com/LuckyNigel/230702)
 <!--END_SECTION:activity-->
 
 ---
