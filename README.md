@@ -12,11 +12,11 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Renew From V1](https://github.com/LuckyNigel/230702/releases/tag/beta.a.0.2.1) in [LuckyNigel/230702](https://github.com/LuckyNigel/230702)
-2. 🚀 Published release [Renew Alpha](https://github.com/LuckyNigel/230702/releases/tag/alpha) in [LuckyNigel/230702](https://github.com/LuckyNigel/230702)
-3. 🚀 Published release [V2](https://github.com/LuckyNigel/230702/releases/tag/beta.a.0.2.1) in [LuckyNigel/230702](https://github.com/LuckyNigel/230702)
-4. 🚀 Published release [0.1.9](https://github.com/LuckyNigel/230702/releases/tag/0.1.9) in [LuckyNigel/230702](https://github.com/LuckyNigel/230702)
-5. 🎉 Merged PR [#1](https://github.com/LuckyNigel/230702/pull/1) in [LuckyNigel/230702](https://github.com/LuckyNigel/230702)
+1. 🔒 Closed issue [#1](https://github.com/LuckyNigel/excel-auto/issues/1) in [LuckyNigel/excel-auto](https://github.com/LuckyNigel/excel-auto)
+2. ❗ Opened issue [#3](https://github.com/LuckyNigel/excel-auto/issues/3) in [LuckyNigel/excel-auto](https://github.com/LuckyNigel/excel-auto)
+3. ❗ Opened issue [#2](https://github.com/LuckyNigel/excel-auto/issues/2) in [LuckyNigel/excel-auto](https://github.com/LuckyNigel/excel-auto)
+4. ❗ Opened issue [#1](https://github.com/LuckyNigel/excel-auto/issues/1) in [LuckyNigel/excel-auto](https://github.com/LuckyNigel/excel-auto)
+5. 🚀 Published release [Renew From V1](https://github.com/LuckyNigel/230702/releases/tag/beta.a.0.2.1) in [LuckyNigel/230702](https://github.com/LuckyNigel/230702)
 <!--END_SECTION:activity-->
 
 ---
