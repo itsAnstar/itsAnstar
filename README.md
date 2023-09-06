@@ -6,6 +6,7 @@
 - [![GitHub](https://img.shields.io/badge/%40itsAnstar-4F4F4F???style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/itsAnstar/)
 - [![Twitter](https://img.shields.io/badge/%40itsAnstar-00BBFF???style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=00aaee)](https://twitter.com/itsAnstar)
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsanstar/itsanstar/output/github-contribution-grid-snake-dark.svg">
