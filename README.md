@@ -1,4 +1,10 @@
-<h1 align="center"> 👋  I'am Anstar</h1>
+<h1 align="center"> 👋  I'm Anstar</h1>
+
+
+**Contact information**
+
+- [![GitHub](https://img.shields.io/badge/%40itsAnstar-4F4F4F???style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/itsAnstar/)
+- [![Twitter](https://img.shields.io/badge/%40itsAnstar-00BBFF???style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=00aaee)](https://twitter.com/itsAnstar)
 
 
 <picture>
