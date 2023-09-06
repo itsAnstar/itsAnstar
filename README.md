@@ -1,4 +1,4 @@
-<h1 align="center">嗨 👋  我是Anstar</h1>
+<h1 align="center"> 👋  I'am Anstar</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckynigel/luckynigel/output/github-contribution-grid-snake-dark.svg">
