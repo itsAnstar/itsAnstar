@@ -20,8 +20,8 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4828](https://github.com/Fndroid/clash_for_windows_pkg/issues/4828) in [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
-2. 🔒 Closed issue [#2](https://github.com/LuckyNigel/excel-auto/issues/2) in [LuckyNigel/excel-auto](https://github.com/LuckyNigel/excel-auto)
+1. 🚀 Published release [文件分享](https://github.com/itsAnstar/QQGuild-StreamGuidFile/releases/tag/Public) in [itsAnstar/QQGuild-StreamGuidFile](https://github.com/itsAnstar/QQGuild-StreamGuidFile)
+2. ❗ Opened issue [#4828](https://github.com/Fndroid/clash_for_windows_pkg/issues/4828) in [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
 3. 🔒 Closed issue [#1](https://github.com/LuckyNigel/excel-auto/issues/1) in [LuckyNigel/excel-auto](https://github.com/LuckyNigel/excel-auto)
 4. ❗ Opened issue [#3](https://github.com/LuckyNigel/excel-auto/issues/3) in [LuckyNigel/excel-auto](https://github.com/LuckyNigel/excel-auto)
 5. ❗ Opened issue [#2](https://github.com/LuckyNigel/excel-auto/issues/2) in [LuckyNigel/excel-auto](https://github.com/LuckyNigel/excel-auto)
