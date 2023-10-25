@@ -20,10 +20,10 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [自动点击12小时版本](https://github.com/itsAnstar/230702/releases/tag/AutomaticClick-12Hour) in [itsAnstar/230702](https://github.com/itsAnstar/230702)
-2. 🚀 Published release [文件分享](https://github.com/itsAnstar/QQGuild-StreamGuidFile/releases/tag/Public) in [itsAnstar/QQGuild-StreamGuidFile](https://github.com/itsAnstar/QQGuild-StreamGuidFile)
-3. ❗ Opened issue [#4828](https://github.com/Fndroid/clash_for_windows_pkg/issues/4828) in [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
-4. ❗ Opened issue [#3](https://github.com/LuckyNigel/excel-auto/issues/3) in [LuckyNigel/excel-auto](https://github.com/LuckyNigel/excel-auto)
+1. 🚀 Published release [-- 弹窗&常驻 --](https://github.com/itsAnstar/230702/releases/tag/publish) in [itsAnstar/230702](https://github.com/itsAnstar/230702)
+2. 🚀 Published release [自动点击12小时版本](https://github.com/itsAnstar/230702/releases/tag/AutomaticClick-12Hour) in [itsAnstar/230702](https://github.com/itsAnstar/230702)
+3. 🚀 Published release [文件分享](https://github.com/itsAnstar/QQGuild-StreamGuidFile/releases/tag/Public) in [itsAnstar/QQGuild-StreamGuidFile](https://github.com/itsAnstar/QQGuild-StreamGuidFile)
+4. ❗ Opened issue [#4828](https://github.com/Fndroid/clash_for_windows_pkg/issues/4828) in [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
 5. ❗ Opened issue [#2](https://github.com/LuckyNigel/excel-auto/issues/2) in [LuckyNigel/excel-auto](https://github.com/LuckyNigel/excel-auto)
 <!--END_SECTION:activity-->
 
