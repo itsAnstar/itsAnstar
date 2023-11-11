@@ -5,7 +5,7 @@
 
 [![GitHub](https://img.shields.io/badge/%40itsAnstar-4F4F4F???style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/itsAnstar/)
 [![Twitter](https://img.shields.io/badge/%40itsAnstar-00BBFF???style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=00aaee)](https://twitter.com/itsAnstar)
-[Lark-Group](https://applink.larksuite.com/client/chat/chatter/add_by_link?link_token=7edt5287-615a-41b8-a559-7c89cad52cbo)
+ [Lark](https://www.larksuite.com/invitation/page/add_contact/?token=a93i6618-0a8b-404a-bf10-5eae72fb76dr&amp;unique_id=Uqjfe5sYz1C5kVUJ3DgjKw==)
 
 ---
 
