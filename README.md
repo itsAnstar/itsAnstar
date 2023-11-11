@@ -20,11 +20,11 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#65](https://github.com/selierlin/Share-SSR-V2ray/issues/65) in [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray)
-2. 🚀 Published release [-- 弹窗&常驻 --](https://github.com/itsAnstar/230702/releases/tag/publish) in [itsAnstar/230702](https://github.com/itsAnstar/230702)
-3. 🚀 Published release [自动点击12小时版本](https://github.com/itsAnstar/230702/releases/tag/AutomaticClick-12Hour) in [itsAnstar/230702](https://github.com/itsAnstar/230702)
-4. 🚀 Published release [文件分享](https://github.com/itsAnstar/QQGuild-StreamGuidFile/releases/tag/Public) in [itsAnstar/QQGuild-StreamGuidFile](https://github.com/itsAnstar/QQGuild-StreamGuidFile)
-5. ❗ Opened issue [#2](https://github.com/LuckyNigel/excel-auto/issues/2) in [LuckyNigel/excel-auto](https://github.com/LuckyNigel/excel-auto)
+1. ❗ Opened issue [#9729](https://github.com/badges/shields/issues/9729) in [badges/shields](https://github.com/badges/shields)
+2. ❗ Opened issue [#65](https://github.com/selierlin/Share-SSR-V2ray/issues/65) in [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray)
+3. 🚀 Published release [-- 弹窗&常驻 --](https://github.com/itsAnstar/230702/releases/tag/publish) in [itsAnstar/230702](https://github.com/itsAnstar/230702)
+4. 🚀 Published release [自动点击12小时版本](https://github.com/itsAnstar/230702/releases/tag/AutomaticClick-12Hour) in [itsAnstar/230702](https://github.com/itsAnstar/230702)
+5. 🚀 Published release [文件分享](https://github.com/itsAnstar/QQGuild-StreamGuidFile/releases/tag/Public) in [itsAnstar/QQGuild-StreamGuidFile](https://github.com/itsAnstar/QQGuild-StreamGuidFile)
 <!--END_SECTION:activity-->
 
 ---
