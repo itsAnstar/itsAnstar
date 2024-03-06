@@ -20,7 +20,7 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9729](https://github.com/badges/shields/issues/9729) in [badges/shields](https://github.com/badges/shields)
+1. ❗ Opened issue [#112](https://github.com/shiyutim/tickets/issues/112) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
 2. ❗ Opened issue [#9729](https://github.com/badges/shields/issues/9729) in [badges/shields](https://github.com/badges/shields)
 3. ❗ Opened issue [#65](https://github.com/selierlin/Share-SSR-V2ray/issues/65) in [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray)
 4. 🚀 Published release [-- 弹窗&常驻 --](https://github.com/itsAnstar/230702/releases/tag/publish) in [itsAnstar/230702](https://github.com/itsAnstar/230702)
