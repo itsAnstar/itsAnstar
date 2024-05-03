@@ -20,10 +20,10 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/shiyutim/tickets/issues/112#issuecomment-1982284000) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
-2. 🗣 Commented on [#112](https://github.com/shiyutim/tickets/issues/112#issuecomment-1982078970) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
-3. ❗ Opened issue [#112](https://github.com/shiyutim/tickets/issues/112) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
-4. 🚀 Published release [-- 弹窗&常驻 --](https://github.com/itsAnstar/230702/releases/tag/publish) in [itsAnstar/230702](https://github.com/itsAnstar/230702)
+1. 🔒 Closed issue [#112](https://github.com/shiyutim/tickets/issues/112) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
+2. 🗣 Commented on [#112](https://github.com/shiyutim/tickets/issues/112#issuecomment-1982284000) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
+3. 🗣 Commented on [#112](https://github.com/shiyutim/tickets/issues/112#issuecomment-1982078970) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
+4. ❗ Opened issue [#112](https://github.com/shiyutim/tickets/issues/112) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
 5. 🚀 Published release [自动点击12小时版本](https://github.com/itsAnstar/230702/releases/tag/AutomaticClick-12Hour) in [itsAnstar/230702](https://github.com/itsAnstar/230702)
 <!--END_SECTION:activity-->
 
