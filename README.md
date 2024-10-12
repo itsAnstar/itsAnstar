@@ -20,8 +20,8 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/v3ucn/CosyVoice_For_Windows/issues/18#issuecomment-2316586134) in [v3ucn/CosyVoice_For_Windows](https://github.com/v3ucn/CosyVoice_For_Windows)
-2. 🔒 Closed issue [#112](https://github.com/shiyutim/tickets/issues/112) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
+1. ❗ Opened issue [#283](https://github.com/cluic/wxauto/issues/283) in [cluic/wxauto](https://github.com/cluic/wxauto)
+2. 🗣 Commented on [#18](https://github.com/v3ucn/CosyVoice_For_Windows/issues/18#issuecomment-2316586134) in [v3ucn/CosyVoice_For_Windows](https://github.com/v3ucn/CosyVoice_For_Windows)
 3. 🗣 Commented on [#112](https://github.com/shiyutim/tickets/issues/112#issuecomment-1982284000) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
 4. 🗣 Commented on [#112](https://github.com/shiyutim/tickets/issues/112#issuecomment-1982078970) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
 5. ❗ Opened issue [#112](https://github.com/shiyutim/tickets/issues/112) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
