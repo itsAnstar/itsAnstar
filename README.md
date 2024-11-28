@@ -20,10 +20,10 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#78](https://github.com/saermart/DouyinLiveWebFetcher/issues/78) in [saermart/DouyinLiveWebFetcher](https://github.com/saermart/DouyinLiveWebFetcher)
-2. ❗ Opened issue [#283](https://github.com/cluic/wxauto/issues/283) in [cluic/wxauto](https://github.com/cluic/wxauto)
-3. 🗣 Commented on [#18](https://github.com/v3ucn/CosyVoice_For_Windows/issues/18#issuecomment-2316586134) in [v3ucn/CosyVoice_For_Windows](https://github.com/v3ucn/CosyVoice_For_Windows)
-4. 🗣 Commented on [#112](https://github.com/shiyutim/tickets/issues/112#issuecomment-1982078970) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
+1. ❗ Opened issue [#734](https://github.com/hiroi-sora/Umi-OCR/issues/734) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+2. ❗ Opened issue [#78](https://github.com/saermart/DouyinLiveWebFetcher/issues/78) in [saermart/DouyinLiveWebFetcher](https://github.com/saermart/DouyinLiveWebFetcher)
+3. ❗ Opened issue [#283](https://github.com/cluic/wxauto/issues/283) in [cluic/wxauto](https://github.com/cluic/wxauto)
+4. 🗣 Commented on [#18](https://github.com/v3ucn/CosyVoice_For_Windows/issues/18#issuecomment-2316586134) in [v3ucn/CosyVoice_For_Windows](https://github.com/v3ucn/CosyVoice_For_Windows)
 5. ❗ Opened issue [#112](https://github.com/shiyutim/tickets/issues/112) in [shiyutim/tickets](https://github.com/shiyutim/tickets)
 <!--END_SECTION:activity-->
 
