@@ -20,9 +20,9 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16991](https://github.com/langgenius/dify/issues/16991#issuecomment-2760035747) in [langgenius/dify](https://github.com/langgenius/dify)
-2. 🔒 Closed issue [#734](https://github.com/hiroi-sora/Umi-OCR/issues/734) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-3. ❗ Opened issue [#734](https://github.com/hiroi-sora/Umi-OCR/issues/734) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+1. 🗣 Commented on [#16991](https://github.com/langgenius/dify/issues/16991#issuecomment-2774551716) in [langgenius/dify](https://github.com/langgenius/dify)
+2. 🗣 Commented on [#16991](https://github.com/langgenius/dify/issues/16991#issuecomment-2774533316) in [langgenius/dify](https://github.com/langgenius/dify)
+3. 🗣 Commented on [#16991](https://github.com/langgenius/dify/issues/16991#issuecomment-2760035747) in [langgenius/dify](https://github.com/langgenius/dify)
 4. ❗ Opened issue [#78](https://github.com/saermart/DouyinLiveWebFetcher/issues/78) in [saermart/DouyinLiveWebFetcher](https://github.com/saermart/DouyinLiveWebFetcher)
 5. ❗ Opened issue [#283](https://github.com/cluic/wxauto/issues/283) in [cluic/wxauto](https://github.com/cluic/wxauto)
 <!--END_SECTION:activity-->
