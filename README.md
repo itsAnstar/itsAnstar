@@ -20,9 +20,9 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21237](https://github.com/langgenius/dify/issues/21237#issuecomment-3016034594) in [langgenius/dify](https://github.com/langgenius/dify)
-2. 🗣 Commented on [#16991](https://github.com/langgenius/dify/issues/16991#issuecomment-2774533316) in [langgenius/dify](https://github.com/langgenius/dify)
-3. 🗣 Commented on [#16991](https://github.com/langgenius/dify/issues/16991#issuecomment-2760035747) in [langgenius/dify](https://github.com/langgenius/dify)
+1. 🗣 Commented on [#35](https://github.com/coze-dev/coze-studio/issues/35#issuecomment-3121579336) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+2. ❗ Opened issue [#35](https://github.com/coze-dev/coze-studio/issues/35) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+3. 🗣 Commented on [#21237](https://github.com/langgenius/dify/issues/21237#issuecomment-3016034594) in [langgenius/dify](https://github.com/langgenius/dify)
 4. ❗ Opened issue [#78](https://github.com/saermart/DouyinLiveWebFetcher/issues/78) in [saermart/DouyinLiveWebFetcher](https://github.com/saermart/DouyinLiveWebFetcher)
 5. ❗ Opened issue [#283](https://github.com/cluic/wxauto/issues/283) in [cluic/wxauto](https://github.com/cluic/wxauto)
 <!--END_SECTION:activity-->
