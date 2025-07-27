@@ -20,11 +20,11 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#62](https://github.com/coze-dev/coze-studio/issues/62) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
-2. 🗣 Commented on [#35](https://github.com/coze-dev/coze-studio/issues/35#issuecomment-3121579336) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
-3. ❗ Opened issue [#35](https://github.com/coze-dev/coze-studio/issues/35) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
-4. 🗣 Commented on [#21237](https://github.com/langgenius/dify/issues/21237#issuecomment-3016034594) in [langgenius/dify](https://github.com/langgenius/dify)
-5. ❗ Opened issue [#283](https://github.com/cluic/wxauto/issues/283) in [cluic/wxauto](https://github.com/cluic/wxauto)
+1. 🗣 Commented on [#47](https://github.com/coze-dev/coze-studio/issues/47#issuecomment-3124098765) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+2. ❗ Opened issue [#62](https://github.com/coze-dev/coze-studio/issues/62) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+3. 🗣 Commented on [#35](https://github.com/coze-dev/coze-studio/issues/35#issuecomment-3121579336) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+4. ❗ Opened issue [#35](https://github.com/coze-dev/coze-studio/issues/35) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+5. 🗣 Commented on [#21237](https://github.com/langgenius/dify/issues/21237#issuecomment-3016034594) in [langgenius/dify](https://github.com/langgenius/dify)
 <!--END_SECTION:activity-->
 
 ---
