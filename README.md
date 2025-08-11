@@ -20,11 +20,11 @@
 ## 最近动作 :zap: 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#62](https://github.com/coze-dev/coze-studio/issues/62) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
-2. 🗣 Commented on [#573](https://github.com/coze-dev/coze-studio/issues/573#issuecomment-3155187483) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
-3. 🗣 Commented on [#573](https://github.com/coze-dev/coze-studio/issues/573#issuecomment-3155175758) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
-4. 🗣 Commented on [#499](https://github.com/coze-dev/coze-studio/issues/499#issuecomment-3146934117) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
-5. 🗣 Commented on [#489](https://github.com/coze-dev/coze-studio/issues/489#issuecomment-3146344227) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+1. 🗣 Commented on [#679](https://github.com/coze-dev/coze-studio/issues/679#issuecomment-3173148613) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+2. 🔒 Closed issue [#62](https://github.com/coze-dev/coze-studio/issues/62) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+3. 🗣 Commented on [#573](https://github.com/coze-dev/coze-studio/issues/573#issuecomment-3155187483) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+4. 🗣 Commented on [#573](https://github.com/coze-dev/coze-studio/issues/573#issuecomment-3155175758) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+5. 🗣 Commented on [#499](https://github.com/coze-dev/coze-studio/issues/499#issuecomment-3146934117) in [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
 <!--END_SECTION:activity-->
 
 ---
